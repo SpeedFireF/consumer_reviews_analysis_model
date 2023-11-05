@@ -38,7 +38,7 @@
 The objective of the project is to create an aspect-based sentiment analysis model capable of analyzing text reviews of services/products, extracting the key features and classifying them on scale from negative to positive.
 
 ## Contact
-<strong>Full name:</strong> Dautov Almaz
+<strong>Full name:</strong> Dautov Almaz  
 <strong>Email:</strong> a.dautov@innopolis.university  
 <strong>Group number:</strong> BSDS-02  
 <strong>Telegram alias:</strong> @hir0t
